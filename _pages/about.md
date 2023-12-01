@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
-# 📝 Publications and Products
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEB_T.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
