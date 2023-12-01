@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 数据上线. 
 - *2022.02*: &nbsp;🎉🎉 测试文字. 
 
-# 📝 Publications
+# 📝 Products
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEB_T.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea](https://doi.org/10.1016/j.rse.2019.111484), **Remote Sensing of Environment**
 
-# 🎖 Honors and Awards
+# 🎖 Publications
 - *2021.10* 测试文字. 
 - *2021.09* 测试文字. 
 
