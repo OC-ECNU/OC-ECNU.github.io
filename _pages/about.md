@@ -51,13 +51,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.10* 测试文字. 
 - *2021.09* 测试文字. 
 
-# 📖 Educations
+# 📖 待定
 - *2019.06 - 2022.04 (now)*, 测试文字
 - *2015.09 - 2019.06*, 测试文字
 
-# 💬 Invited Talks
+# 💬 待定
 - *2021.06*, 测试文字
 - *2021.03*, 测试文字.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 待定
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
