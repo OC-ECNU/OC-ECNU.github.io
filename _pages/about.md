@@ -41,11 +41,14 @@ My research interest includes neural machine translation and computer vision. I 
 **测试**, 测试, 测试, 测试
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Online visualization of Red Tide Index (Shen et al. 2019) product base on Sentinel-3 OLCI image.. 
+- Online visualization of Red Tide Index (Shen et al. 2019) product base on Sentinel-3 OLCI image..
+- - [Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea](https://doi.org/10.1016/j.rse.2019.111484), **Remote Sensing of Environment**
 </div>
 </div>
 
-- [Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea](https://doi.org/10.1016/j.rse.2019.111484), **Remote Sensing of Environment**
+
+
+
 
 # 🎖 Publications
 - *2021.10* 测试文字. 
