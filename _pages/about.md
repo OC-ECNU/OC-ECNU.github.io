@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Satellite Detection For Algal Blooms](http://www.sklec-oceancolor.cn:8889/home/)
 
-**测试**, 测试, 测试, 测试
+**藻华卫星监测系统**
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Online visualization of Red Tide Index (Shen et al. 2019) product base on Sentinel-3 OLCI image..
@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
   
 [Global phytoplankton group products](http://www.sklec-oceancolor.cn:8889/home/)
 
-**测试**, 测试, 测试, 测试
+**全球浮游植物类群反演**
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accurate monitoring of the spatial-temporal distribution and variability of phytoplankton group (PG) composition is of vital importance in better understanding of marine ecosystem dynamics and biogeochemical cycles.  In this study, an ensemble learning approach, called the spatial-temporal-ecological ensemble (STEE) model, is developed to construct a robust prediction model for eight distinct phytoplankton groups  The proposed method introduces multiple data simultaneously: ocean color, physical oceanographic, biogeochemical, and spatial and temporal information. The proposed model was utilized to retrieve global monthly phytoplankton group products (STEE-PG) over an extended period (September 1997 to May 2020).
