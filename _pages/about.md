@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Products
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEB_T.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEBNEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Satellite Detection For Algal Blooms** 👉[[link](http://www.sklec-oceancolor.cn:8889/home/)]
@@ -41,7 +41,8 @@ My research interest includes neural machine translation and computer vision. I 
 **藻华卫星监测系统**
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Online visualization of Red Tide Index (Shen et al. 2019) product base on Sentinel-3 OLCI image..
+- Online visualization of Red Tide Index  product in Eastern Seas of China base on C2RCC atomospheric corrected Sentinel-3 OLCI image. The Red Tide Index (RDI),  is a three-band-model-based index that can indicate magnitude of Chla, suitable for the purpose of detecting algal blooms in turbid coastal waters for multi-source ocean color data.
+- 基于C2RCC大气校正Sentinel-3 OLCI图像的中国东海赤潮指数产品在线可视化。赤潮指数（RDI）是一个基于三波段模型的指数，可以指示叶绿素a的大小，适用于监测多源海洋颜色数据检测浑浊沿海水域的藻华情况。
 - [**Paper**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - [Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea](https://doi.org/10.1016/j.rse.2019.111484), **Remote Sensing of Environment**
 </div>
@@ -65,7 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Particulate Organic Carbon</div><img src='images/POC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Particulate Organic Carbon</div><img src='images/POCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Monthly Average Phytoplankton, Organic detritus Particulate Organic Carbon Concentrations in the East China Sea (2022)** 
