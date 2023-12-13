@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **测试**, 测试, 测试, 测试
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Online visualization of Red Tide Index (Shen et al. 2019) product base on Sentinel-3 OLCI image..
 - [Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea](https://doi.org/10.1016/j.rse.2019.111484), **Remote Sensing of Environment**
 </div>
@@ -53,8 +53,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **测试**, 测试, 测试, 测试
 
-[**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Online visualization of Red Tide Index (Shen et al. 2019) product base on Sentinel-3 OLCI image..
+[**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Accurate monitoring of the spatial-temporal distribution and variability of phytoplankton group (PG) composition is of vital importance in better understanding of marine ecosystem dynamics and biogeochemical cycles.  In this study, an ensemble learning approach, called the spatial-temporal-ecological ensemble (STEE) model, is developed to construct a robust prediction model for eight distinct phytoplankton groups  The proposed method introduces multiple data simultaneously: ocean color, physical oceanographic, biogeochemical, and spatial and temporal information. The proposed model was utilized to retrieve global monthly phytoplankton group products (STEE-PG) over an extended period (September 1997 to May 2020)..
 - [Marine big data-driven ensemble learning for estimating global phytoplankton group composition over two decades (1997–2020)](https://doi.org/10.1016/j.rse.2023.113596), **Remote Sensing of Environment**
 
 </div>
