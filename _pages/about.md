@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEB_T.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Satellite Detection For Algal Blooms [link](http://www.sklec-oceancolor.cn:8889/home/)
+**Satellite Detection For Algal Blooms** 👉[[link](http://www.sklec-oceancolor.cn:8889/home/)]
 
 **藻华卫星监测系统**
 
@@ -50,7 +50,7 @@ Satellite Detection For Algal Blooms [link](http://www.sklec-oceancolor.cn:8889/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Group</div><img src='images/Fig.9.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Global phytoplankton group products](http://www.sklec-oceancolor.cn:8889/home/)
+**Estimating Global Phytoplankton Group**
 
 **全球浮游植物类群反演**
 
@@ -58,7 +58,9 @@ Satellite Detection For Algal Blooms [link](http://www.sklec-oceancolor.cn:8889/
 - Accurate monitoring of the spatial-temporal distribution and variability of phytoplankton group (PG) composition is of vital importance in better understanding of marine ecosystem dynamics and biogeochemical cycles.  In this study, an ensemble learning approach, called the spatial-temporal-ecological ensemble (STEE) model, is developed to construct a robust prediction model for eight distinct phytoplankton groups  The proposed method introduces multiple data simultaneously: ocean color, physical oceanographic, biogeochemical, and spatial and temporal information. The proposed model was utilized to retrieve global monthly phytoplankton group products (STEE-PG) over an extended period (September 1997 to May 2020).
 - [**Paper**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - [Marine big data-driven ensemble learning for estimating global phytoplankton group composition over two decades (1997–2020)](https://doi.org/10.1016/j.rse.2023.113596), **Remote Sensing of Environment**
-
+- [**Product**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- OneDrive: 👉[[link](https://1drv.ms/f/s!AgOcOG0HOHXIgX4OliC_dozAA5R-?e=lNuiBC)]
+- 夸克网盘：👉[[链接](https://pan.quark.cn/s/53cacb8ffd02)] 提取码：SiTn
 </div>
 </div>
 
