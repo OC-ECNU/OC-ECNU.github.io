@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Products
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEB_T.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Group</div><img src='images/WEB_T.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Satellite Detection For Algal Blooms](http://www.sklec-oceancolor.cn:8889/home/)
