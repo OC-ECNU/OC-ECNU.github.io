@@ -8,28 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
-测试文字.
-
-测试文字.
-
-测试文字.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 藻华监测系统上线. 
-- *2022.02*: &nbsp;🎉🎉 数据上线. 
-- *2022.02*: &nbsp;🎉🎉 测试文字. 
 
 # 📝 Products
 
@@ -53,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
   
 **Estimating Global Phytoplankton Group**
 
-**全球浮游植物类群反演**
+**全球浮游植物类群产品**
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accurate monitoring of the spatial-temporal distribution and variability of phytoplankton group (PG) composition is of vital importance in better understanding of marine ecosystem dynamics and biogeochemical cycles.  In this study, an ensemble learning approach, called the spatial-temporal-ecological ensemble (STEE) model, is developed to construct a robust prediction model for eight distinct phytoplankton groups  The proposed method introduces multiple data simultaneously: ocean color, physical oceanographic, biogeochemical, and spatial and temporal information. The proposed model was utilized to retrieve global monthly phytoplankton group products (STEE-PG) over an extended period (September 1997 to May 2020).
@@ -85,20 +64,3 @@ My research interest includes neural machine translation and computer vision. I 
 - 
 </div>
 </div>
-
-
-
-# 🎖 Publications
-- *2021.10* 测试文字. 
-- *2021.09* 测试文字. 
-
-# 📖 待定
-- *2019.06 - 2022.04 (now)*, 测试文字
-- *2015.09 - 2019.06*, 测试文字
-
-# 💬 待定
-- *2021.06*, 测试文字
-- *2021.03*, 测试文字.  \| [\[video\]](https://github.com/)
-
-# 💻 待定
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
