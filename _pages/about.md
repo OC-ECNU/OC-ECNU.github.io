@@ -46,11 +46,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/GPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Global phytoplankton group products](http://www.sklec-oceancolor.cn:8889/home/)
 
 **测试**, 测试, 测试, 测试
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Online visualization of Red Tide Index (Shen et al. 2019) product base on Sentinel-3 OLCI image..
 - [Marine big data-driven ensemble learning for estimating global phytoplankton group composition over two decades (1997–2020)](https://doi.org/10.1016/j.rse.2023.113596), **Remote Sensing of Environment**
 
