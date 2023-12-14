@@ -40,7 +40,8 @@ redirect_from:
   利用二十年的全球长时序海洋水色卫星数据、物理海洋学模式数据、生物地球化学再分析数据和气象数据等不同海洋环境变量，结合多种先进机器学习与集成学习框架，并同时纳入空间和时间信息，构建了面向浮游植物类群反演的Spatial-Temporal-Ecological Ensemble（STEE）模型，实现了八种主要浮游植物类群全球长时序时空分布格局的准确反演。该研究突破了传统生物光学方法完全依赖于海洋水色数据所造成的局限性，验证了基于多源海洋大数据与机器学习技术的浮游植物类群反演新范式。  
   
 **Reference**
-- Zhang Y, Shen F, Sun X, et al. Marine big data-driven ensemble learning for estimating global phytoplankton group composition over two decades (1997–2020)[J]. **Remote Sensing of Environment**, 2023, 294: 113596.👉[link](https://doi.org/10.1016/j.rse.2023.113596), 
+- Zhang Y, Shen F, Sun X, et al. Marine big data-driven ensemble learning for estimating global phytoplankton group composition over two decades (1997–2020)[J]. **Remote Sensing of Environment**, 2023, 294: 113596.👉[link](https://doi.org/10.1016/j.rse.2023.113596)
+  
 **Dataset**
 - OneDrive: 👉[[link](https://1drv.ms/f/s!AgOcOG0HOHXIgX4OliC_dozAA5R-?e=lNuiBC)]
 - 夸克网盘：👉[[链接](https://pan.quark.cn/s/53cacb8ffd02)] 提取码：SiTn
