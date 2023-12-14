@@ -31,7 +31,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Type</div><img src='images/PG2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Monthly 4-km global phytoplankton functional type Dataset**
+**Monthly 4-km global phytoplankton functional type dataset**
 
 **全球逐月4km浮游植物类群数据集**
 
