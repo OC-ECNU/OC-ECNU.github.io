@@ -60,7 +60,7 @@ redirect_from:
   东中国海颗浮游植物、碎屑颗粒有机碳浓度月平均遥感数据集 (2022年)，提供东中国海表层浮游植物、碎屑颗粒有机碳和总颗粒有机碳浓度遥感产品。使用Sentinel-3/OLCI和GOCI-Ⅱ融合后的遥感反射率进行反演计算。空间分辨率为250 m，时间分辨率为月平均。可以用于近岸碳循环、碳储量等相关研究。  
   
 **Reference** 
--  M. Li, F. Shen, E. Organelli et al., Disentangling Particle Composition to Improve Space-Based Quantification of POC in Optically-Complex Estuarine and Coastal Waters, **IEEE Transactions on Geoscience and Remote Sensing**, Early Access. doi: 10.1109/TGRS.2023.3341462. 👉[link](https://ieeexplore.ieee.org/document/10353986)
+-  Li M, Shen F, et al., Disentangling Particle Composition to Improve Space-Based Quantification of POC in Optically-Complex Estuarine and Coastal Waters[J], **IEEE Transactions on Geoscience and Remote Sensing**, Early Access. doi: 10.1109/TGRS.2023.3341462. 👉[link](https://ieeexplore.ieee.org/document/10353986)
    
 **Dataset** 
 - OneDrive: 👉[[link](https://1drv.ms/f/s!AgOcOG0HOHXIggMSPe1TW0icHS4g?e=mn01Sp)]
