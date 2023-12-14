@@ -12,7 +12,7 @@ redirect_from:
 
 # 📝 Products
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEBNEW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Algal Blooms</div><img src='images/WEBNEW2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Satellite Detection For Algal Blooms** 👉[[link](http://www.sklec-oceancolor.cn:8889/home/)]
@@ -45,7 +45,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Particulate Organic Carbon</div><img src='images/POCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Particulate Organic Carbon</div><img src='images/POCN2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Monthly Average Phytoplankton, Organic detritus Particulate Organic Carbon Concentrations in the East China Sea (2022)** 
@@ -53,7 +53,7 @@ redirect_from:
 **东中国海浮游植物、碎屑颗粒有机碳月平均浓度数据集 (2022年)**
 
 [**Introduction**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Monthly Average Remote Sensing Dataset of Phytoplankton and Organic Detritus POC in the East China Sea (2022), derived from Sentinel-3/OLCI and GOCI-Ⅱ fused remote sensing reflectance for the surface phytoplankton, particulate organic and total POC. The spatial resolution is 250 m, and the temporal resolution is monthly average. This dataset can be utilized for research on coastal carbon cycling, carbon storage, and related studies..
+- Monthly Average Remote Sensing Dataset of Phytoplankton and Organic Detritus POC in the East China Sea (2022), derived from Sentinel-3/OLCI and GOCI-Ⅱ fused remote sensing reflectance for the surface phytoplankton, particulate organic and total POC. The spatial resolution is 250 m, and the temporal resolution is monthly average. This dataset can be utilized for research on coastal carbon cycling, carbon storage, and related studies.
 - 东中国海颗浮游植物、碎屑颗粒有机碳浓度月平均遥感数据集 (2022年)，提供东中国海表层浮游植物、碎屑颗粒有机碳和总颗粒有机碳浓度遥感产品。使用Sentinel-3/OLCI和GOCI-Ⅱ融合后的遥感反射率进行反演计算。空间分辨率为250 m，时间分辨率为月平均。可以用于近岸碳循环、碳储量等相关研究。
 - 
 - [**Paper**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
