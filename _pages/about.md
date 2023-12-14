@@ -20,7 +20,7 @@ redirect_from:
 **藻华卫星监测系统**
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Online visualization of Red Tide Index  product in Eastern Seas of China base on C2RCC atomospheric corrected Sentinel-3 OLCI image. The Red Tide Index (RDI),  is a three-band-model-based index that can indicate magnitude of Chla, suitable for the purpose of detecting algal blooms in turbid coastal waters for multi-source ocean color data.
+- Online visualization of Red Tide Index  product in Eastern Seas of China base on C2RCC atomospheric corrected Sentinel-3 OLCI image. The Red Tide Index (RDI),  is a three-band-model-based index that can indicate magnitude of Chla, suitable for the purpose of detecting algal blooms in turbid coastal waters for multi-source ocean color data.  
   基于C2RCC大气校正Sentinel-3 OLCI图像的中国东海赤潮指数产品在线可视化。赤潮指数（RDI）是一个基于三波段模型的指数，可以指示叶绿素a的大小，适用于监测多源海洋颜色数据检测浑浊沿海水域的藻华情况。
 **Reference** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Shen F, Tang R, Sun X, et al. Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea[J]. Remote Sensing of Environment, 2019, 235: 111484.👉[link](https://doi.org/10.1016/j.rse.2019.111484), **Remote Sensing of Environment**
