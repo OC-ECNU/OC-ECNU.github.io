@@ -28,7 +28,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Group</div><img src='images/Fig.9.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Group</div><img src='images/PG2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Monthly 4-km global phytoplankton functional type Dataset**
