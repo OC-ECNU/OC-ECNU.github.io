@@ -24,7 +24,7 @@ redirect_from:
   基于C2RCC大气校正Sentinel-3 OLCI图像的中国东海赤潮指数产品在线可视化。赤潮指数（RDI）是一个基于三波段模型的指数，可以指示叶绿素a的大小，适用于监测多源海洋颜色数据检测浑浊沿海水域的藻华情况。
   
 **Reference**
-- Shen F, Tang R, Sun X, et al. Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea[J]. **Remote Sensing of Environment**, 2019, 235: 111484.👉[link](https://doi.org/10.1016/j.rse.2019.111484), 
+- Shen F, Tang R, Sun X, et al. Simple methods for satellite identification of algal blooms and species using 10-year time series data from the East China Sea[J]. **Remote Sensing of Environment**, 2019, 235: 111484.👉[link](https://doi.org/10.1016/j.rse.2019.111484)
 </div>
 </div>
 
@@ -48,7 +48,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Particulate and Organic detritus POC</div><img src='images/POCN2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phytoplankton and Organic detritus POC</div><img src='images/POCN2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Monthly Average Phytoplankton, Organic detritus Particulate Organic Carbon Concentrations in the East China Sea (2022)** 
