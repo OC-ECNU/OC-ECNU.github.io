@@ -28,7 +28,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Group</div><img src='images/PG2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Type</div><img src='images/PG2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Monthly 4-km global phytoplankton functional type Dataset**
@@ -36,8 +36,8 @@ redirect_from:
 **全球逐月4km浮游植物类群数据集**
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Accurate monitoring of the spatial-temporal distribution and variability of phytoplankton group (PG) composition is of vital importance in better understanding of marine ecosystem dynamics and biogeochemical cycles.  In this study, an ensemble learning approach, called the spatial-temporal-ecological ensemble (STEE) model, is developed to construct a robust prediction model for eight distinct phytoplankton groups  The proposed method introduces multiple data simultaneously: ocean color, physical oceanographic, biogeochemical, and spatial and temporal information. The proposed model was utilized to retrieve global monthly phytoplankton group products (STEE-PG) over an extended period (September 1997 to May 2020).  
-  利用二十年的全球长时序海洋水色卫星数据、物理海洋学模式数据、生物地球化学再分析数据和气象数据等不同海洋环境变量，结合多种先进机器学习与集成学习框架，并同时纳入空间和时间信息，构建了面向浮游植物类群反演的Spatial-Temporal-Ecological Ensemble（STEE）模型，实现了八种主要浮游植物类群全球长时序时空分布格局的准确反演。该研究突破了传统生物光学方法完全依赖于海洋水色数据所造成的局限性，验证了基于多源海洋大数据与机器学习技术的浮游植物类群反演新范式。  
+- Accurate monitoring of the spatial-temporal distribution and variability of global phytoplankton type composition is of vital importance in better understanding of marine ecosystem dynamics and biogeochemical cycles.  A global dataset of eight different phytoplankton type (i.e., Diatoms, Dinoflagellates, Haptophytes, Pelagophytes, Cryptophytes, Green Algae, Prokaryotes, and Prochlorococcus) based on the Spatio-Temporal Ecological Integration (STEE) model was generated. The spatial resolution was 4k m and the temporal resolution was monthly average.  
+  准确监测浮游植物类群组成的时空分布和变化对更好地了解海洋生态系统动态和生物地球化学循环至关重要。基于时空生态集成（STEE）模型，生成了八种不同浮游植物类型（即硅藻、甲藻、定鞭金藻、大洋藻、隐藻、绿藻、原核生物和原绿球藻）的全球数据集。空间分辨率为4km，时间分辨率为月平均值。
   
 **Reference**
 - Zhang Y, Shen F, Sun X, et al. Marine big data-driven ensemble learning for estimating global phytoplankton group composition over two decades (1997–2020)[J]. **Remote Sensing of Environment**, 2023, 294: 113596.👉[link](https://doi.org/10.1016/j.rse.2023.113596)
