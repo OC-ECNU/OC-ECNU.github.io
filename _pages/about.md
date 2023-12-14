@@ -31,9 +31,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Phytoplankton Type</div><img src='images/PG2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Monthly 4-km global phytoplankton functional type dataset**
+**Monthly 4-km global phytoplankton functional type dataset (1997–2020)**
 
-**全球游植物类群逐月4km浮数据集**
+**全球逐月4公里游植物类群浮数据集 (1997–2020)**
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Accurate monitoring of the spatial-temporal distribution and variability of global phytoplankton type composition is of vital importance in better understanding of marine ecosystem dynamics and biogeochemical cycles.  A global dataset of eight different phytoplankton type (i.e., Diatoms, Dinoflagellates, Haptophytes, Pelagophytes, Cryptophytes, Green Algae, Prokaryotes, and Prochlorococcus) based on the Spatio-Temporal Ecological Integration (STEE) model was generated. The spatial resolution was 4k m and the temporal resolution was monthly average (1997–2020).  
@@ -48,19 +48,19 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phytoplankton and Organic detritus POC</div><img src='images/POCN2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phytoplankton POC and Organic detritus POC</div><img src='images/POCN2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Synergistic dataset of monthly 250-m phytoplankton POC andorganic detritus POC in the EastChina Sea (2022)** 
+**Synergistic dataset of monthly 250-m phytoplankton POC and organic detritus POC in the East China Sea (2022)** 
 
-**东中国海逐月250米浮游植物POC与碎屑POC数据集**
+**东中国海逐月250米浮游植物POC与碎屑POC数据集 (2022)**
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -   The monthly synergistic dataset of phytoplankton, organic detritus particulate organic carbon (POC) concentration in the East China Sea (2022) provides remote sensing products for surface phytoplankton POC, organic detritus POC, and total POC concentrations. The synergistic dataset was merged using geostationary satellite GOCI-II data and polar-orbiting Sentinel-3/OLCI. The spatial resolution is 250 m, and the temporal resolution is monthly average. This dataset can be utilized for research on coastal carbon cycling, carbon storage, and related studies.
-  东中国海颗浮游植物、碎屑颗粒有机碳浓度月平均遥感数据集 (2022年)，提供东中国海表层浮游植物、碎屑颗粒有机碳和总颗粒有机碳浓度遥感产品。使用Sentinel-3/OLCI和GOCI-Ⅱ融合后的遥感反射率进行反演计算。空间分辨率为250 m，时间分辨率为月平均。可以用于近岸碳循环、碳储量等相关研究。  
+  东中国海浮游植物颗粒有机碳和碎屑颗粒有机碳浓度月平均遥感数据集 (2022年)，提供东中国海表层浮游植物颗粒有机碳、碎屑颗粒有机碳和总颗粒有机碳浓度遥感产品。使用Sentinel-3/OLCI和GOCI-Ⅱ融合后的遥感反射率进行反演计算。空间分辨率为250 m，时间分辨率为月平均。可以用于近岸碳循环、碳储量等相关研究。  
   
 **Reference** 
--  Li M, Shen F, et al., Disentangling Particle Composition to Improve Space-Based Quantification of POC in Optically-Complex Estuarine and Coastal Waters[J], **IEEE Transactions on Geoscience and Remote Sensing**, Early Access. doi: 10.1109/TGRS.2023.3341462. 👉[link](https://ieeexplore.ieee.org/document/10353986)
+-  Li M, Shen F, Organelli E, et al. Disentangling Particle Composition to Improve Space-Based Quantification of POC in Optically-Complex Estuarine and Coastal Waters[J], **IEEE Transactions on Geoscience and Remote Sensing**, 2023, Early Access. doi: 10.1109/TGRS.2023.3341462. 👉[link](https://ieeexplore.ieee.org/document/10353986)
    
 **Dataset** 
 - OneDrive: 👉[[link](https://1drv.ms/f/s!AgOcOG0HOHXIggMSPe1TW0icHS4g?e=mn01Sp)]
