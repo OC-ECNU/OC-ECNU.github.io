@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# 📝 Products
+# 📝 Dataset
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Satellite Detection Platform</div><img src='images/WEBNEW2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
