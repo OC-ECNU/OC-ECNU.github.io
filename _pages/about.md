@@ -48,7 +48,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phytoplankton POC and Organic detritus POC</div><img src='images/POCN2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Phytoplankton POC and Organic detritus POC</div><img src='images/POCN3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Synergistic dataset of monthly 250-m phytoplankton POC and organic detritus POC in the East China Sea (2022)** 
